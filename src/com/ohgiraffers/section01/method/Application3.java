@@ -20,6 +20,13 @@ public class Application3 {
         byte byteAge = 10;
         app3.testMethod(byteAge);
 
+        /* 강제 형변환을 이용한 값 전달 테스트 */
+        long longAge = 80;
+        app3.testMethod((int)longAge);
+
+        /* 5. 연산 결과를 이용한 값 전달 테스트 */
+        app3.testMethod(age * 3);
+
     }
     public void testMethod(int age) {   // (int age) -> parameter : 매개변수
         System.out.println("당신의 나이는 " + age + "세 입니다.");

@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="877f6494-6765-4e4a-a71a-f3190d1712bd" name="변경" comment="udated2">
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/package_and_import/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/package_and_import/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section03/math/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section03/math/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section03/math/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section04/scanner/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section04/scanner/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section04/scanner/Application3.java" afterDir="false" />
+    <list default="true" id="877f6494-6765-4e4a-a71a-f3190d1712bd" name="변경" comment="udated3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section04/scanner/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section04/scanner/Application3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +78,30 @@
       <option name="project" value="LOCAL" />
       <updated>1688694653580</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="udated3">
+      <option name="closed" value="true" />
+      <created>1688710713225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688710713225</updated>
+    </task>
+    <task id="LOCAL-00006" summary="udated3">
+      <option name="closed" value="true" />
+      <created>1688710772359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688710772359</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="udated" />
     <MESSAGE value="udated2" />
-    <option name="LAST_COMMIT_MESSAGE" value="udated2" />
+    <MESSAGE value="udated3" />
+    <option name="LAST_COMMIT_MESSAGE" value="udated3" />
   </component>
 </project>
